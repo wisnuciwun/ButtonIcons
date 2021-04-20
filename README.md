@@ -26,7 +26,7 @@
 - id = add component id
 - hidden = boolean
 - value = set component value
-(of course you can add any other parameter here)
+- of course you can add any other parameter here
 
 - [x] Example :
 ```js
