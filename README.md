@@ -4,15 +4,17 @@
 + Short Documentation
 ```
 
-- :rice: Requirement :
+:rice: Requirement :
 - reactstrap
 - any version of Fontawesome icon (recommended)
 
-- :eyes: Usage :
+
+:eyes: Usage :
 - Put this file to your component directory folder. You can choose to make a new folder or not.
 - import this component to your views or other component in JSX.
 
-- :phone: Parameters :
+
+:phone: Parameters :
 - icon = add icon
 - title = add title
 - color = reactstrap color index (primary, secondary, danger, success, warning, light)
@@ -28,10 +30,11 @@
 - value = set component value
 - of course you can add any other parameter here
 
-- :paperclip: Example :
+
+:paperclip: Example :
 ```js
 <ButtonIcons icon="fa fa-exclamation" height="50px" width="100px" color="warning" title="Cancel"/>
 ```
 
-- :camera: Preview :
+:camera: Preview :
 - https://i.ibb.co/QJ7Rfnn/Whats-App-Image-2021-04-20-at-12-19-28.jpg
