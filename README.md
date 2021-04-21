@@ -32,3 +32,6 @@
 ```js
 <ButtonIcons icon="fa fa-exclamation" height="50px" width="100px" color="warning" title="Cancel"/>
 ```
+
+- [x] Preview :
+- https://i.ibb.co/QJ7Rfnn/Whats-App-Image-2021-04-20-at-12-19-28.jpg
